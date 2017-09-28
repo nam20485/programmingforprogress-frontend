@@ -9,3 +9,4 @@ deploy:
   bucket: "devopsaws.com"
   secret_access_key: "${AWS_SECRET_KEY}"
   region: us-west-2
+
